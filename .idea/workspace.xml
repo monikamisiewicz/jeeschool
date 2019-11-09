@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jee-school:war" />
+      <artifact name="jee-school:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c71c0f4-98e9-45ad-8201-9cfc500e05b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/utils/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exam_2/WRO_JEE_W_06_Exam_2" beforeDir="false" afterPath="$PROJECT_DIR$/../../exam_2/WRO_JEE_W_06_Exam_2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/Homework01/src/main/java/pl/coderslab/collection/GenerateRandom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/cookies/Cookie1Get.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/cookies/Cookie1Get.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/cookies/Cookie4Del.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/cookies/Cookie4Del.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/cookies/Cookie52.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/cookies/Cookie52.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/cookies/CookieUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/cookies/CookieUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/filters/EncodingFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/filters/EncodingFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/filters/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/filters/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/filters/PerformanceMeasureFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/filters/PerformanceMeasureFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/gets/Get3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/gets/Get3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/jsps/Jsp4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/jsps/Jsp4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/mvcs/Mvc11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/mvcs/Mvc11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/mvcs/Mvc12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/mvcs/Mvc12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/mvcs/Mvc13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/mvcs/Mvc13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/mvcs/Mvc14.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/mvcs/Mvc14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/posts/Form3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/posts/Form3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/sessions/Session2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/sessions/Session2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/sessions/Session3Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/sessions/Session3Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/sessions/Session4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/java/pl/coderslab/sessions/Session4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/fourth.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/fourth.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/jsp1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/jsp1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/resultList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/resultList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/third.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/src/main/webapp/third.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/cookies/Cookie1Get.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/cookies/Cookie1Get.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/cookies/Cookie4Del.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/cookies/Cookie4Del.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/cookies/Cookie52.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/cookies/Cookie52.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/cookies/CookieUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/cookies/CookieUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/filters/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/filters/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/filters/PerformanceMeasureFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/filters/PerformanceMeasureFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/mvcs/Mvc11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/mvcs/Mvc11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/mvcs/Mvc13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/mvcs/Mvc13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/mvcs/Mvc14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/mvcs/Mvc14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/posts/Form3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/posts/Form3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/sessions/Session2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/sessions/Session2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/sessions/Session3Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/sessions/Session3Add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/sessions/Session4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/classes/pl/coderslab/sessions/Session4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/cookies/Cookie1Get.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/cookies/Cookie1Get.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/cookies/Cookie4Del.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/cookies/Cookie4Del.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/cookies/Cookie52.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/cookies/Cookie52.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/cookies/CookieUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/cookies/CookieUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/filters/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/filters/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/filters/PerformanceMeasureFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/filters/PerformanceMeasureFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/mvcs/Mvc11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/mvcs/Mvc11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/mvcs/Mvc13.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/mvcs/Mvc13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/mvcs/Mvc14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/mvcs/Mvc14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/posts/Form3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/posts/Form3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/sessions/Session2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/sessions/Session2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/sessions/Session3Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/sessions/Session3Add.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/sessions/Session4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/WEB-INF/classes/pl/coderslab/sessions/Session4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/fourth.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/fourth.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/jsp1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/jsp1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/resultList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/resultList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/third.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/servletjee/target/servletjee-1.0-SNAPSHOT/third.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../servlety/webexample/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../servlety/webexample/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/coderslab/utils/DBUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/utils/DBUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="coding_school: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="coding_school: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="solution: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1665">
+              <caret line="118" column="41" selection-start-line="118" selection-start-column="41" selection-end-line="118" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/AddUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/editGroup.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/EditGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="31" column="114" selection-start-line="31" selection-start-column="114" selection-end-line="31" selection-end-column="114" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/IndexServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/dao/SolutionDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="162" column="5" selection-start-line="162" selection-start-column="5" selection-end-line="162" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/SolutionDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="28" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="24" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/UserList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index1.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/dao/GroupDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/dao/ExerciseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/TestServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/META-INF/context.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/dao/UserGroupDao.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/4c32d04a-8588-4c10-b4bd-483b29115fcd/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/webapp/footer.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/dao/SolutionDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/utils/DBUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/IndexServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/SolutionDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/GroupList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/GroupUsers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/UserDetails.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/Admin.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/header.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/style.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/groupUsers.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/solutionDetails.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/userDetails.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/AddGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/addGroup.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/groupList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/admin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/AddUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/EditUser.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/editGroup.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/UserList.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/editUser.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/addUser.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/userList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/EditGroup.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/jee-school.iml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/jee_school_war.xml" />
+        <option value="$PROJECT_DIR$/.idea/artifacts/jee_school_war_exploded.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Maven__org_mindrot_jbcrypt_0_4.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/.idea/dataSources.xml" />
+        <option value="$PROJECT_DIR$/../../servlety/testexam3/testexam3.iml" />
+        <option value="$PROJECT_DIR$/../../scrum/.idea/scrum.iml" />
+        <option value="$PROJECT_DIR$/../../warsztat_samodzielny/.idea/warsztat_samodzielny.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="123" />
+    <option name="y" value="23" />
+    <option name="width" value="843" />
+    <option name="height" value="798" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jee-school" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jee-school" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/pl/coderslab/dao" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/pl/coderslab/dao" />
+      <recent name="$PROJECT_DIR$/src/main/java/pl/coderslab/utils" />
+      <recent name="$PROJECT_DIR$/src/main/java/pl/coderslab/model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.tomcat9.0">
+    <configuration name="solutionDetails.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/solutionDetails.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat9.0" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="jee-school:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_jee-school" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51233" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jee-school:war exploded" />
+          <artifact name="jee-school:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="tomcat9.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat9.0" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="jee-school:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="tomcat9_0_jee-school" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51233" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jee-school:war exploded" />
+          <artifact name="jee-school:war" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.solutionDetails.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c71c0f4-98e9-45ad-8201-9cfc500e05b5" name="Default Changelist" comment="" />
+      <created>1570276561404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570276561404</updated>
+      <workItem from="1570276562570" duration="8713000" />
+      <workItem from="1570437485643" duration="1458000" />
+      <workItem from="1570526041869" duration="563000" />
+      <workItem from="1570545326842" duration="2146000" />
+      <workItem from="1570601711261" duration="1971000" />
+      <workItem from="1570697746627" duration="770000" />
+      <workItem from="1571236697364" duration="2641000" />
+      <workItem from="1572507881548" duration="20657000" />
+      <workItem from="1572621023815" duration="5720000" />
+      <workItem from="1572694222258" duration="5732000" />
+      <workItem from="1572778071662" duration="10182000" />
+      <workItem from="1572900390609" duration="1069000" />
+      <workItem from="1572939567752" duration="4797000" />
+      <workItem from="1573160059116" duration="1650000" />
+      <workItem from="1573204969483" duration="3651000" />
+      <workItem from="1573244081950" duration="21000" />
+      <workItem from="1573245433950" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="71777000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="123" y="23" width="1084" height="798" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3170068" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39945653" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32880434" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="8" sideWeight="0.53257793" visible="true" weight="0.2024952" />
+      <window_info anchor="right" id="Database" order="9" sideWeight="0.4674221" side_tool="true" weight="0.2686935" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3170068" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39945653" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32880434" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="8" sideWeight="0.53257793" visible="true" weight="0.2686935" />
+      <window_info anchor="right" id="Database" order="9" sideWeight="0.4674221" side_tool="true" visible="true" weight="0.2686935" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/utils/PasswordUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9302#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4c32d04a-8588-4c10-b4bd-483b29115fcd/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/TestServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/UserGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4c32d04a-8588-4c10-b4bd-483b29115fcd/schema/coding_school/table/solution" />
+    <entry file="das://4c32d04a-8588-4c10-b4bd-483b29115fcd/schema/coding_school/table/user_group" />
+    <entry file="das://4c32d04a-8588-4c10-b4bd-483b29115fcd/schema/coding_school/table/users" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6660">
+          <caret line="444" column="20" lean-forward="true" selection-start-line="444" selection-start-column="20" selection-end-line="444" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/solutionDetails.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/admin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/EditUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/groupUsers.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/userDetails.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="87" selection-start-line="87" selection-end-line="87" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4c32d04a-8588-4c10-b4bd-483b29115fcd/schema/cinemas_ex/table/cinemas_movies.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/Exercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/userList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/dao/ExerciseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/header.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/addGroup.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/addUser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/editUser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/groupList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/GroupUsers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/dao/UserGroupDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="119" selection-start-line="119" selection-end-line="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/GroupList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/utils/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/AddGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/UserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="118" column="41" selection-start-line="118" selection-start-column="41" selection-end-line="118" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/AddUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/editGroup.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/EditGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="31" column="114" selection-start-line="31" selection-start-column="114" selection-end-line="31" selection-end-column="114" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/IndexServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/UserList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/dao/SolutionDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="162" column="5" selection-start-line="162" selection-start-column="5" selection-end-line="162" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/SolutionDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="28" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="24" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

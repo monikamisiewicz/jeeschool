@@ -16,7 +16,7 @@ public class DBUtil {
     }
 
     private static DataSource getInstance() {
-        if (dataSource == null) { //to zostanie zainicjalizowane
+        if (dataSource == null) { //jeśli null, to zostanie zainicjalizowane
             try {
 
                 //singleton
